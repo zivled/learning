@@ -1,8 +1,4 @@
----
-related:
-  cheat-sheet: ['Helm']
----
-{% raw %}
+# cheat sheet
 
 Note that while Helm uses Go templates it does so by using the 
 [Sprig templating library](https://masterminds.github.io/sprig/) 
